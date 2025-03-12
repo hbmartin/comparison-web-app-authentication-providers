@@ -20,3 +20,5 @@ jobs:
           config: "./.markdownlint.jsonc"
       - name: Typos
         uses: crate-ci/typos@v1.19.0
+        with:
+          files: ./README.md
