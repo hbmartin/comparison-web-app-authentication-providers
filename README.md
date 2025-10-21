@@ -35,5 +35,5 @@ If you have your own database, you may consider implementing auth within your ow
 7. [Auth Pricing Wars: Cognito vs Auth0 vs Firebase vs Supabase](https://zuplo.com/blog/2024/11/27/api-authentication-pricing) - A. Machado, 27 Nov, 2024
 8. [Which Authentication to Use? A Comparison of 4 Popular Approaches](https://dev.to/leapcell/which-authentication-to-use-a-comparison-of-4-popular-approaches-24jc) - Leapcell, 4 Feb, 2025
 9. [Gemini 1.5 Pro with Deep Research](research.md) - generated 12 Mar, 2025
-10. [AuthO Vs. SSOJet: Features, Pricing, And Pros & Cons](https://compile7.org/compare/ciam/comparison/auth0-vs-ssojet) - CIAM Vendors Comparison
-11. [AuthO Vs. Clerk: Features, Pricing, And Pros & Cons](https://compile7.org/compare/ciam/comparison/auth0-vs-clerk) - CIAM Vendors Comparison
+10. [Auth0 Vs. SSOJet: Features, Pricing, And Pros & Cons](https://compile7.org/compare/ciam/comparison/auth0-vs-ssojet) - CIAM Vendors Comparison
+11. [Auth0 Vs. Clerk: Features, Pricing, And Pros & Cons](https://compile7.org/compare/ciam/comparison/auth0-vs-clerk) - CIAM Vendors Comparison
